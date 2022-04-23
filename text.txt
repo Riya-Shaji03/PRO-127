@@ -1,0 +1,2 @@
+venv\Scripts\activate.bat  - to enter virtual env
+python -m venv venv - create virtual env 
